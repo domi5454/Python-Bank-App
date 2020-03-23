@@ -1,2 +1,2 @@
-# Python-Challenge
-Homework 3 for DS Boot Camp @NWU
+# Python Sample Bank App
+A small python app written to demonstrate Python skills 
